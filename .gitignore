@@ -1,0 +1,13 @@
+.springBeans
+.idea
+*.iml
+*.DS_Store
+target
+.classpath
+.project
+.settings
+# Compiled class file
+*.class
+
+# Log file
+*.log
