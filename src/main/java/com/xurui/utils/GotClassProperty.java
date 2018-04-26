@@ -1,6 +1,5 @@
 package com.xurui.utils;
 
-import java.lang.reflect.AnnotatedType;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
